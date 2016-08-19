@@ -21,8 +21,6 @@
 # core_tiny.mk in addition to core_minimal.mk.
 
 PRODUCT_PACKAGES += \
-    BasicDreams \
-    Browser \
     Calendar \
     CalendarProvider \
     CaptivePortalLogin \
@@ -31,13 +29,11 @@ PRODUCT_PACKAGES += \
     DeskClock \
     DocumentsUI \
     DownloadProviderUi \
-    Email \
     ExactCalculator \
-    Exchange2 \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
-    KeyChain \
+    KeyChain \ 
     Keyguard \
     LatinIME \
     Launcher3 \
