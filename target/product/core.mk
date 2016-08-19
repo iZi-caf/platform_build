@@ -33,7 +33,7 @@ PRODUCT_PACKAGES += \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
-    KeyChain \ 
+    KeyChain \
     Keyguard \
     LatinIME \
     Launcher3 \
